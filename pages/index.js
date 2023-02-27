@@ -47,10 +47,7 @@ export default function Home() {
           <div className="main-header py-6">
             <div className="container">
               <div className="flex items-center justify-between">
-                <a
-                  href="index.html"
-                  className="brand-logo flex-none lg:mr-10 md:w-auto max-w-[120px]"
-                >
+                <a href="/" className="brand-logo flex-none lg:mr-10 md:w-auto max-w-[120px]">
                   <svg
                     width="132"
                     height="27"
@@ -91,13 +88,13 @@ export default function Home() {
                         <a href="#">Home</a>
                         <ul className="sub-menu">
                           <li>
-                            <a href="index.html">Home One</a>
+                            <a href="#">Home One</a>
                           </li>
                           <li>
-                            <a href="index2.html">Home Two</a>
+                            <a href="#">Home Two</a>
                           </li>
                           <li>
-                            <a href="index3.html">Home Three</a>
+                            <a href="#">Home Three</a>
                           </li>
                         </ul>
                       </li>
@@ -105,28 +102,28 @@ export default function Home() {
                         <a href="#">Pages</a>
                         <ul className="sub-menu">
                           <li>
-                            <a href="about.html">About 1</a>
+                            <a href="#">About 1</a>
                           </li>
                           <li>
-                            <a href="about2.html">About 2</a>
+                            <a href="#">About 2</a>
                           </li>
                           <li>
-                            <a href="instructor.html">instructor 1</a>
+                            <a href="#">instructor 1</a>
                           </li>
                           <li>
-                            <a href="instructor2.html">instructor 2</a>
+                            <a href="#">instructor 2</a>
                           </li>
                           <li>
-                            <a href="instructor-details.html">instructor Single</a>
+                            <a href="#">instructor Single</a>
                           </li>
                           <li>
-                            <a href="event.html">Event</a>
+                            <a href="#">Event</a>
                           </li>
                           <li>
-                            <a href="event-single.html">Event single</a>
+                            <a href="#">Event single</a>
                           </li>
                           <li>
-                            <a href="404.html">404</a>
+                            <a href="#">404</a>
                           </li>
                         </ul>
                       </li>
@@ -134,13 +131,13 @@ export default function Home() {
                         <a href="#">Courses</a>
                         <ul className="sub-menu">
                           <li>
-                            <a href="courses.html">courses</a>
+                            <a href="#">courses</a>
                           </li>
                           <li>
-                            <a href="courses-sidebar.html">courses Sidebar</a>
+                            <a href="#">courses Sidebar</a>
                           </li>
                           <li>
-                            <a href="single-course.html">Single-course</a>
+                            <a href="#">Single-course</a>
                           </li>
                         </ul>
                       </li>
@@ -148,21 +145,21 @@ export default function Home() {
                         <a href="#">Blog</a>
                         <ul className="sub-menu">
                           <li>
-                            <a href="blog.html">Blog</a>
+                            <a href="#">Blog</a>
                           </li>
                           <li>
-                            <a href="blog-full.html">Full Width</a>
+                            <a href="#">Full Width</a>
                           </li>
                           <li>
-                            <a href="blog-standard.html">Blog Standard</a>
+                            <a href="#">Blog Standard</a>
                           </li>
                           <li>
-                            <a href="blog-single.html">Single Blog</a>
+                            <a href="#">Single Blog</a>
                           </li>
                         </ul>
                       </li>
                       <li>
-                        <a href="contact.html">Contacts</a>
+                        <a href="#">Contacts</a>
                       </li>
                     </ul>
                   </div>
@@ -232,13 +229,13 @@ export default function Home() {
                 <a href="#">Home</a>
                 <ul className="sub-menu">
                   <li>
-                    <a href="index.html">Home One</a>
+                    <a href="#">Home One</a>
                   </li>
                   <li>
-                    <a href="index2.html">Home Two</a>
+                    <a href="#">Home Two</a>
                   </li>
                   <li>
-                    <a href="index3.html">Home Three</a>
+                    <a href="#">Home Three</a>
                   </li>
                 </ul>
               </li>
@@ -249,25 +246,25 @@ export default function Home() {
                     <a href="about.html">About 1</a>
                   </li>
                   <li>
-                    <a href="about2.html">About 2</a>
+                    <a href="#">About 2</a>
                   </li>
                   <li>
-                    <a href="instructor.html">instructor 1</a>
+                    <a href="#">instructor 1</a>
                   </li>
                   <li>
-                    <a href="instructor2.html">instructor 2</a>
+                    <a href="#">instructor 2</a>
                   </li>
                   <li>
-                    <a href="instructor-details.html">instructor Single</a>
+                    <a href="#">instructor Single</a>
                   </li>
                   <li>
-                    <a href="event.html">Event</a>
+                    <a href="#">Event</a>
                   </li>
                   <li>
-                    <a href="event-single.html">Event single</a>
+                    <a href="#">Event single</a>
                   </li>
                   <li>
-                    <a href="404.html">404</a>
+                    <a href="#">404</a>
                   </li>
                 </ul>
               </li>
@@ -275,13 +272,13 @@ export default function Home() {
                 <a href="#">Courses</a>
                 <ul className="sub-menu">
                   <li>
-                    <a href="courses.html">courses</a>
+                    <a href="#">courses</a>
                   </li>
                   <li>
-                    <a href="courses-sidebar.html">courses Sidebar</a>
+                    <a href="#">courses Sidebar</a>
                   </li>
                   <li>
-                    <a href="single-course.html">Single-course</a>
+                    <a href="#">Single-course</a>
                   </li>
                 </ul>
               </li>
@@ -289,21 +286,21 @@ export default function Home() {
                 <a href="#">Blog</a>
                 <ul className="sub-menu">
                   <li>
-                    <a href="blog.html">Blog</a>
+                    <a href="#">Blog</a>
                   </li>
                   <li>
-                    <a href="blog-full.html">Full Width</a>
+                    <a href="#">Full Width</a>
                   </li>
                   <li>
-                    <a href="blog-standard.html">Blog Standard</a>
+                    <a href="#">Blog Standard</a>
                   </li>
                   <li>
-                    <a href="blog-single.html">Single Blog</a>
+                    <a href="#">Single Blog</a>
                   </li>
                 </ul>
               </li>
               <li>
-                <a href="contact.html">Contacts</a>
+                <a href="#">Contacts</a>
               </li>
             </ul>
           </div>
